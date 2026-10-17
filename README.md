@@ -1,4 +1,11 @@
-Phishing Detection Using Machine Learning
+PhishGuard AI
+Machine Learning-Based Email Threat Detection
+PhishGuard AI is a cybersecurity research project and interactive email-analysis application built with Python, scikit-learn, and Streamlit.
+Originally developed as a comparative study of Support Vector Machines and Random Forest classifiers, the project has evolved into a hybrid detection system combining machine-learning predictions with independent, rule-based security indicators.
+The application identifies potential phishing emails, highlights suspicious requests for credentials or payments, and provides recommended security actions.
+Status: Local research prototype. Public model deployment is pending dataset provenance and licensing review.
+
+
 Comparative Analysis of Support Vector Machine (SVM) and Random Forest Classifier (RFC)
 Project Overview
 Phishing attacks remain a significant cybersecurity threat, targeting individuals and organizations through deceptive emails and social engineering techniques.
